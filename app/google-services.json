@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "595533481223",
+    "firebase_url": "https://autenticacao-281eb.firebaseio.com",
+    "project_id": "autenticacao-281eb",
+    "storage_bucket": "autenticacao-281eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595533481223:android:53e0d536548313f0",
+        "android_client_info": {
+          "package_name": "br.com.luisferreira.autenticacaofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595533481223-9ov5kefnrml1gurd438hbla9l0kk974d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA39d74NUJTMujeLLUY6sWxl9YlmSHbFkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
